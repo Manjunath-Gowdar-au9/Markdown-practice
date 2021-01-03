@@ -6,7 +6,7 @@
 
 [Video](https://youtu.be/fbtn3phXwX40)
 
-![Video](https://youtu.be/fbtn3phXwX40)
+[Video](https://youtu.be/fbtn3phXwX40)
 
 
 
