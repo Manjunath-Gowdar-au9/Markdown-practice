@@ -4,16 +4,12 @@
 
 ![](https://media.giphy.com/media/yxSUYl58s2Z3sdPQme/giphy.gif)
 
-
-
-
-
 [Video](https://youtu.be/fbtn3phXwX40)
 
+![Video](https://youtu.be/fbtn3phXwX40)
 
 
 
 
-[Test](http://www.youtube.com/watch?v=fbtn3phXwX4&feature=youtu.be)
 
 
