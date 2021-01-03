@@ -18,3 +18,8 @@ https://youtu.be/fbtn3phXwX4
 
 video: https://www.youtube.com/embed/fbtn3phXwX4
 
+steps:
+- title: What is GitHub?
+  description: After watching this video, close the first issue in your repository.
+  video: https://youtube.com/embed/w3jLJU7DT5E
+
