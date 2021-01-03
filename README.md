@@ -23,6 +23,6 @@ steps:
   description: After watching this video, close the first issue in your repository.
   YouTube: https://youtube.com/embed/w3jLJU7DT5E
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=fbtn3phXwX4&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/ZZp8S2I3vzU)
 
 
